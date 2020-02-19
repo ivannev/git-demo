@@ -1,2 +1,5 @@
 antoshka, antoshka
  poidem kopat' kartoshkuuu
+
+antoshka, antoshka
+ poidem kopat' kartoshkuuu[2]
